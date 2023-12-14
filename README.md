@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tvid33
 - 👀 I’m interested in creating AI programs
-- 🌱 I’m currently learning python and c++
+- 🌱 I’m currently learning python, opencv, c++ 
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 How to reach me write me to email tvid385@gmail.com
 
